@@ -1,4 +1,4 @@
 echo "hello "
 date
 cal
-echo 'completed 
+echo 'completed '
